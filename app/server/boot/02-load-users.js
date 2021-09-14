@@ -5,7 +5,7 @@ var log = require('debug')('boot:02-load-users');
 
 module.exports = function(app) {
 
-  // createDefaultUsers();
+  createDefaultUsers();
 
   // loginUserTest();
 
