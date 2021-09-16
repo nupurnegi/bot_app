@@ -48,7 +48,7 @@ var data = JSON.stringify({
 
 var config = {
   method: 'post',
-  url: 'http://localhost:3000/api/Mappings',
+  url: 'REPLACE_WITH_SERVER_URL/api/Mappings',
   headers: { 
     'Content-Type': 'application/json', 
     'Cookie': 'connect.sid=s%3A4KXwEuPrX032IPObb5GtosS_3Ze5ZNlb.N0eSgk0hqLC93qolCGcfaKAkYgjGIYyNPz6sIDGc3r4'
