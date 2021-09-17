@@ -74,7 +74,7 @@ ul, ol,b{
 <p>Try out the Sample Application</p>
 
 <li>Get App Code</li><br/>
-<a class="button is-dark is-medium" title="Get App Code" href="didact://?commandId=vscode.didact.sendNamedTerminalAString&text=nodejs%20terminal$$git%20clone%20https://github.com/nupurnegi/bot_app">Get App code</a><br><br>
+<a class="button is-dark is-medium" title="Get App Code" href="didact://?commandId=vscode.didact.sendNamedTerminalAString&text=nodejs%20terminal$$git%20clone%20https://github.com/nupurnegi/bot_app.git">Get App code</a><br><br>
 
 <h3>Goto app/server/boot/02-load-users.js<br/>
 Uncomment the line createDefaultUsers(); at line(8)<br/>
