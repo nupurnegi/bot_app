@@ -1,0 +1,13 @@
+{
+  "extends": ["standard", "loopback"],
+  "plugins": ["mocha"],
+  "rules": {
+    "max-len": "warn",
+    "no-var": "error"
+  },
+  "env": {
+    "node": true,
+    "es6": true,
+    "mocha": true
+  }
+}
